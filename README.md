@@ -1,2 +1,8 @@
 # app-dev
 My First repository
+
+# COCO
+
+>Aspiring musician Miguel, confronted with his family's ancestral ban on music, 
+>
+>enters the Land of the Dead to find his great-great-grandfather, a legendary singer.
